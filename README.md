@@ -1,4 +1,4 @@
-# Hi there, I'm a Senior Frontend Developer 👋
+# Hi there, I'm a Frontend Developer 👋
 
 A passionate and results-driven **Senior Frontend Developer** with a proven track record of building high-performance, responsive, and user-centric web applications. My experience spans across international startups (like *Property Scout* in Bangkok) and major financial institutions (like *AGD Bank* in Myanmar). 
 
