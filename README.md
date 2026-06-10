@@ -27,15 +27,6 @@ I specialize in modern JavaScript/TypeScript ecosystems, focusing on **Performan
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.ai/api?username=zinmar2626&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.ai/api/top-langs/?username=zinmar2626&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ### 🛠️ Featured Projects & Contributions
 
 #### 🔹 International Startup & E-Commerce / Property Platforms
