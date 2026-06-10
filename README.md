@@ -20,7 +20,7 @@ I specialize in modern JavaScript/TypeScript ecosystems, focusing on **Performan
 | Category | Technologies |
 | :--- | :--- |
 | **Frontend Core** | HTML5, CSS3, JavaScript (ES6+), **TypeScript** |
-| **Frameworks / Libraries** | **React.js**, **Next.js**, Redux Toolkit, Context API |
+| **Frameworks / Libraries** | **React.js**, **Next.js**, **Vue.Js**, Redux Toolkit, Context API |
 | **Styling & UI** | **Tailwind CSS**, Bootstrap, Material UI, Styled Components |
 | **Performance & Tools** | Webpack, Vite, SEO Optimization, Code Splitting / Lazy Loading |
 | **Dev Tools & Workflow** | Git & GitHub, Terminal Tools (**uv**, CLI workflow), Cursor, Claude Code |
@@ -55,8 +55,8 @@ I specialize in modern JavaScript/TypeScript ecosystems, focusing on **Performan
 
 ### 📫 Connect with Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/zinmar2626)
-- 📧 **Email:** [your.email@example.com](mailto:zinmar.ucsy1@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/zinmar2626](https://linkedin.com/in/zinmar2626)
+- 📧 **Email:** [zinmar.ucsy1@gmail.com](mailto:zinmar.ucsy1@gmail.com)
 - 📍 **Location:** Yangon, Myanmar (Open to Local & Remote Roles)
 
 ---
