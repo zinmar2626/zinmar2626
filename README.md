@@ -46,7 +46,7 @@ I specialize in modern JavaScript/TypeScript ecosystems, focusing on **Performan
 
 ### 📫 Connect with Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/zinmar2626](https://linkedin.com/in/zinmar2626)
+- 💼 **LinkedIn:** [linkedin.com/in/zinmarwin2626](https://linkedin.com/in/zinmarwin2626)
 - 📧 **Email:** [zinmar.ucsy1@gmail.com](mailto:zinmar.ucsy1@gmail.com)
 - 📍 **Location:** Yangon, Myanmar (Open to Local & Remote Roles)
 
